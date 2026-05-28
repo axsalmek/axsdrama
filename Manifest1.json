@@ -1,6 +1,6 @@
 {
 "name":"AXS Drama",
-"short_name":"AXS",
+"short_name":"AXS Drama",
 "start_url":"/",
 "display":"standalone",
 "background_color":"#0f172a",
@@ -8,12 +8,12 @@
 "orientation":"portrait",
 "icons":[
 {
-"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Yf1Ag17cacyaKjAxTQY220pYyKh2AZmPwhFNfTawBXJeM5GI4on_A6N1WlHovuRB9dKnywGTo0wGUTeX3Vhmz8P4-rkmreJeEq0f3M_oN6JP0Sb6MCwKLe63BHyx-27-ULxu4sTtTn_bztFkdb7H7PuBg8PL6jmqkBbTU95yuawv08-ENpG0ZXIp50k/s1600/1778640423-picsay.png",
+"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidHLnhHvatJPcy7gCWqLIsa-x3cxqujI3_xRO0LVr9lCHy-YeYJr8SAwet8z9qVFeny52K6IsCFJBq3OJST-Y42RHus7gZI4GzCfZN4g6_dyVU9Vq4n9UGybsaM_skoA3QLC6dfa0KpUBB55zFsmlRRQ7VEMZdMwAX6t2Tgnl-u2wDyT4pXd5VvYOa3g/s1600/file_00000000086c7208a4376e454471eab9.png",
 "sizes":"192x192",
 "type":"image/png"
 },
 {
-"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxA9zhqJN1shb_SeI-wwVudiuE00wLFaysN9e610iRXkUQbC3LJJm1K0swzSj_LQDO3YlGzR8POZNEVNPkJy0e3FUS87GYUQHDkTGrN-apYHcbBOtyziHbo9-YXdsPi8LJLfDohk6Rw64aMvYkQpFGcxeETuQCWQxP-zb7D9QyqWVyR1wVBdbTAIaROfY/s1600/1778640452-picsay.png",
+"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAyc9mKn6ICitXDT04em8AZKhJAm2WSMSCrtQKENHTtPd23bVBygMyIx0Kzm18DBzsGVxnUg_AfyqTB24xshrnFVuK6lFwWnh8ce6Vy7ze5vgfd1Q1SmcPdU9wsaMszjdC8W8CZF-KbyLQspEgoiRUSl7gm0S_hqSkxo72aA6uMzAja0FZ5FSHo5pEkw/s1600/file_00000000ab8c72088f46151701a1e921.png",
 "sizes":"512x512",
 "type":"image/png"
 }
