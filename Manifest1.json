@@ -1,0 +1,21 @@
+{
+"name":"AXS Drama",
+"short_name":"AXS",
+"start_url":"/",
+"display":"standalone",
+"background_color":"#0f172a",
+"theme_color":"#0f172a",
+"orientation":"portrait",
+"icons":[
+{
+"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Yf1Ag17cacyaKjAxTQY220pYyKh2AZmPwhFNfTawBXJeM5GI4on_A6N1WlHovuRB9dKnywGTo0wGUTeX3Vhmz8P4-rkmreJeEq0f3M_oN6JP0Sb6MCwKLe63BHyx-27-ULxu4sTtTn_bztFkdb7H7PuBg8PL6jmqkBbTU95yuawv08-ENpG0ZXIp50k/s1600/1778640423-picsay.png",
+"sizes":"192x192",
+"type":"image/png"
+},
+{
+"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxA9zhqJN1shb_SeI-wwVudiuE00wLFaysN9e610iRXkUQbC3LJJm1K0swzSj_LQDO3YlGzR8POZNEVNPkJy0e3FUS87GYUQHDkTGrN-apYHcbBOtyziHbo9-YXdsPi8LJLfDohk6Rw64aMvYkQpFGcxeETuQCWQxP-zb7D9QyqWVyR1wVBdbTAIaROfY/s1600/1778640452-picsay.png",
+"sizes":"512x512",
+"type":"image/png"
+}
+]
+}
